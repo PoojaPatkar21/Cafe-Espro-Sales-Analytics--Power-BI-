@@ -47,19 +47,19 @@ Link:
 6.	Minimum unit price 
 
 ⭐ Business Questions 
-  A. Product sales Analysis:
-    1.	What is the total sales of different outlets? 
-    2.	What is menu type distribution?
-    3.	What is product category distribution with product type?
+A. Product sales Analysis:
+1.	What is the total sales of different outlets? 
+2.	What is menu type distribution?
+3.	What is product category distribution with product type?
 
-  B. Transaction Time Analysis:
-    1.	At what interval of day the products are sold the most?
+B. Transaction Time Analysis:
+1.	At what interval of day the products are sold the most?
   
-  C. Storewise Analysis:
-    1.	What is the product type distribution varied by store locations?
-    2.	List Max payment and Min payment done varying by stores
-    3.	What is the best seller product in each store?
-    4.	What is the least sold product in each store?
+C. Storewise Analysis:
+1.	What is the product type distribution varied by store locations?
+2.	List Max payment and Min payment done varying by stores
+3.	What is the best seller product in each store?
+4.	What is the least sold product in each store?
 
   
 ⭐ Table Visuals
