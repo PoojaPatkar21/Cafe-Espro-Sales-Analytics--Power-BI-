@@ -15,7 +15,7 @@ This project contains a Power BI dashboard for Café Espro, designed to provide 
 4. Data-Driven Decision Making – Helps in monitoring key aspects for understanding Café trends.
 
 ## Dataset Overview
-⭐ Excel file: Cafe Espro.
+⭐ Excel file- Cafe Espro.xlsx 
 
 ⭐ The dataset used for this project includes transactional data with the following columns:
 1.	transaction_id – Unique identifier for each transaction
